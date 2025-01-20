@@ -3,7 +3,7 @@
 
 !.gitignore
 !README.md
-!LICENCE.md
+!LICENSE.md
 !example.qmd
 !update_plugin.sh
 !audio-slideshow.Rproj
