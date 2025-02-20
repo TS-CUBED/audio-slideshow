@@ -16,7 +16,7 @@ A detailed description of the plugin and its options is given [here](https://git
 
 In short:
 
--   press the key `r` to start the recording - a red circle appears in the upper right corner of the slideshow, indicating that the recorder is running
+-   press the key `c` to start the recording - a red circle appears in the upper right corner of the slideshow, indicating that the recorder is running
 -   press the key `z` to download the recorded audio in a zip-file
 -   extract the downloaded zip-file next to the *html*-file containing the *reveal.js* presentation and rename the folder to `audio/`
 

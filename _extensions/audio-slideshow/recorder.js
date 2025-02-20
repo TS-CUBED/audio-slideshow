@@ -298,7 +298,7 @@ console.warn(blob.type);
 
 
 const initAudioRecorder = function(Reveal){
-  Reveal.addKeyBinding( { keyCode: 82, key: 'R', description: 'Toggle recording' }, function() { Recorder.toggleRecording(); } );
+  Reveal.addKeyBinding( { keyCode: 67, key: 'C', description: 'Toggle recording' }, function() { Recorder.toggleRecording(); } );
   Reveal.addKeyBinding( { keyCode: 90, key: 'Z', description: 'Download recordings' }, function() { Recorder.downloadZip(); } );
   Reveal.addKeyBinding( { keyCode: 84, key: 'T', description: 'Fetch text-to-speech audio files' }, function() { Recorder.fetchTTS(); } );
 
