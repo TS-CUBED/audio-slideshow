@@ -16,15 +16,17 @@
 
 #### Other changes
 
+-   added minimum required quarto version
+    ([d551ff0](https://github.com/kapsner/audio-slideshow/tree/d551ff04a91b57b1a657c281ff720a96892692d9))
 -   added news.md
-    ([287ef1c](https://github.com/kapsner/audio-slideshow/tree/287ef1c9bbd923ae5013dc3c751d008affa9b91b))
+    ([7b736fe](https://github.com/kapsner/audio-slideshow/tree/7b736fe65ca3cbc9556e8c06e2c9e10c2c94e586))
 -   reducing player opacity
     ([0161185](https://github.com/kapsner/audio-slideshow/tree/0161185af6edb470d34cd109e6cf11af05cbdb82))
 -   merged config fix
     ([c0cd6df](https://github.com/kapsner/audio-slideshow/tree/c0cd6df22e9858e44c69660a9f137545574cc77e))
 
 Full set of changes:
-[`v1.0.0...287ef1c`](https://github.com/kapsner/audio-slideshow/compare/v1.0.0...287ef1c)
+[`v1.0.0...d551ff0`](https://github.com/kapsner/audio-slideshow/compare/v1.0.0...d551ff0)
 
 ## v1.0.0 (2025-02-20)
 
