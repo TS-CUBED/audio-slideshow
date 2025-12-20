@@ -9,6 +9,11 @@
 -   added trailing character
     ([2f176f2](https://github.com/kapsner/audio-slideshow/tree/2f176f2528944d8c4b516776bd582ab96d27abb4))
 
+#### Refactorings
+
+-   changed keybinding for narrative recording to ‘y’
+    ([c615850](https://github.com/kapsner/audio-slideshow/tree/c615850eb1ece4a802f7bd0391869711b31ff3a4))
+
 #### CI
 
 -   added pre-commit-hooks
@@ -17,7 +22,7 @@
 #### Other changes
 
 -   added minimum required quarto version
-    ([d551ff0](https://github.com/kapsner/audio-slideshow/tree/d551ff04a91b57b1a657c281ff720a96892692d9))
+    ([f2cf3ee](https://github.com/kapsner/audio-slideshow/tree/f2cf3ee1c59455a7b66759cd33c7f873469b302e))
 -   added news.md
     ([7b736fe](https://github.com/kapsner/audio-slideshow/tree/7b736fe65ca3cbc9556e8c06e2c9e10c2c94e586))
 -   reducing player opacity
@@ -26,7 +31,7 @@
     ([c0cd6df](https://github.com/kapsner/audio-slideshow/tree/c0cd6df22e9858e44c69660a9f137545574cc77e))
 
 Full set of changes:
-[`v1.0.0...d551ff0`](https://github.com/kapsner/audio-slideshow/compare/v1.0.0...d551ff0)
+[`v1.0.0...c615850`](https://github.com/kapsner/audio-slideshow/compare/v1.0.0...c615850)
 
 ## v1.0.0 (2025-02-20)
 
